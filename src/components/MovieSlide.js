@@ -15,7 +15,7 @@ const MovieSlide = () => {
         }
     }, [index])
 
-    //automatické posúvanie
+    //automatické posúvanie 
     useEffect(()=>{
         let setIntervalId = setInterval(()=>{
             setIndex(index+1)

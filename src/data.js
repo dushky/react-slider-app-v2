@@ -11,7 +11,7 @@ const allMovies = [
         age: "+13",
         tags: "Vtipný * Napínavý * Rodina",
         description: "Nulla pulvinar eleifend sem. Mauris suscipit, ligula sit amet pharetra semper, nibh ante cursus purus, vel sagittis velit mauris vel metus. Nam libero tempore, cum soluta",
-        category: "komedie"
+        category: "komédia"
     },
     {
         id: 2,
@@ -20,14 +20,14 @@ const allMovies = [
         age: "+13",
         tags: "Vtipný * Napínavý * Rodina",
         description: "Etiam egestas wisi a erat. Sed vel lectus. Donec odio tempus molestie, porttitor ut, iaculis quis, sem. Integer imperdiet lectus quis justo. Vivamus luctus egestas leo",
-        category: "komedie"
+        category: "komédia"
     },
     {
         id: 3,
         image: image3,
         title: "Rocknrolla",
         age: "+16",
-        tags: "Gangster * Napínavý * Násilí",
+        tags: "Gangster * Napínavý * Násilie",
         description: "Nulla pulvinar eleifend sem. Mauris suscipit, ligula sit amet pharetra semper, nibh ante cursus purus, vel sagittis velit mauris vel metus. Nam libero tempore, cum soluta",
         category: "romantický"
     },
@@ -36,7 +36,7 @@ const allMovies = [
         image: image4,
         title: "Patriot",
         age: "+16",
-        tags: "Gangster * Napínavý * Násilí",
+        tags: "Gangster * Napínavý * Násilie",
         description: "Duis ante orci, molestie vitae vehicula venenatis, tincidunt ac pede. Nulla quis diam. Nulla pulvinar eleifend sem. Maecenas lorem. Fusce suscipit libero eget.",
         category: "romantický"
     },
